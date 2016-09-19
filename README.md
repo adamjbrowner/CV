@@ -15,6 +15,8 @@ Doing a masters in professional writing has instilled a fixation with the correc
 # Education
 **Makers Academy** (June 2016 - Sep 2016)  
 + Ruby, Rails, Javascript, JQuery, HTML, CSS
++ Rspec, Jasmine
++ TDD, OOP, MVC, SOLID
 
 **Falmouth University** (2014 - 2015)  
 + MA English (Professional Writing)
@@ -23,9 +25,11 @@ Doing a masters in professional writing has instilled a fixation with the correc
 **University of Exeter** (2011 - 2014)  
 + BA (Hons) Film Studies
 + 2:1
++ Outside of work I was a keen performer, both on the stage and as part of numerous musical ventures. I was Band Leader for the univerity Jazz Orchestra and played some very pretentious roles in some very studenty plays. I also wrote a number of articles for the local student newspaper.
 
 **Tavistock College**
 + A-Levels: Maths A, Music A, Film Studies B
++ Look, Maths!
 
 # Experience
 **NHS** (Jan 2016 - June 2016)  
