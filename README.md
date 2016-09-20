@@ -1,28 +1,29 @@
 # Adam Browner
-```
-A creative and hard-working developer, with a love of
-language and logic. Having completed one of the best
-Coding Bootcamps in Europe, Makers Academy, I'm now
-keen to get into the world of Web Development, within a
-company that accommodate my ambition and desire to grow.
-```
+A Junior Web Developer with a passion for creating complex and engaging web applications. After completely a master's in English, I discovered that my favourite kind of syntax was actually on buried inside programs, and not printed in books. After spending months learning to code in my spare time, I quite my job and dived full-time into the world of web development. Having completed an intense 12-week bootcamp at Makers Academy, I am now looking for a role as a Junior Web Developer at a company that can accommodate  
+
 
 # Skills
-#### Communication
-Working with Makers Academy as part of the remote course requires incredible communication skills. Pairing with a different person everyday (who may or may not be on this continent) meant being prepared It's not just being amicable which is important, but being able to speak up and present your ideas without fear of repercussion.
 
-#### Creativity
-A lot of people assume that coding requires zero finesse or creativity to work. You just wack the 'right' code in, and you're away. I would argue that creativity is an essential skill when it comes to programming. Every challenge has multiple solutions, and it's only through creativity and exploration are these solutions going to become apparent. In regards to coding, almost all of the briefs I have worked from have been deliberately vague. However, where there is vagueness, there is potential for creativity. This tasks have gave me an excellent chance to think outside the box, and use creativity in order to get around problems that more linear workers may have found difficult. Both a degree in Film Studies and a Master's in English has given me the necessary creative skills with which I can put into practice.
+## Software development
++ **Languages/Technologies** - Ruby, Ruby on Rails, Sinatra, HTML, CSS, JavaScript, PHP, SQL, PostgreSQL, NodeJS, AngularJS.  
 
-#### Obsession with perfection
-Doing a masters in professional writing has instilled a fixation with the correct word at the correct time. This has actually proved very useful in the coding world, as the right word and correct syntax is essential.  
++ **Self-driven learner** - You don't get through three years of university, one year of masters and 12 weeks of a coding bootcamp without picking up the ability to teach yourself a thing or too. Whilst part of Makers Academy, I also strived to learn new languages and technologies, even if it meant doing things the "hard" way.
+
++ **Creativity** - As a keen musician, I have been trained in finding new approaches to problems. Being creative has allowed me approach problems within coding not only from a problem-solving perspective, but also in terms of design more towards the front-end.
+
+### Dedication
+Having previously worked as a musician, I'm acutely aware that it takes a lot of dedication in order to be good at something. This has translated well into preparing for Web Development. Jumping into the world of programming isn't easy but with dedication it;s possible   
+
+### Communication
+
 
 # Projects
-**Cinefile**
+**Cinefile** - https://github.com/adamjbrowner/Cinefile
 + A web app that film-lovers can use in order to keep track of where their favourite films are being shown in their local area.
 + Ruby and Rails were used to create models and controllers.
 + Javascript, HTML and CSS were used in the front-end.
 + PostgreSQL was used to create and manage databases.
+
 
 # Education
 **Makers Academy** (June 2016 - Sep 2016)  
@@ -41,7 +42,6 @@ Doing a masters in professional writing has instilled a fixation with the correc
 
 **Tavistock College**
 + A-Levels: Maths A, Music A, Film Studies B
-+ Look, Maths!
 
 # Experience
 **NHS** (Jan 2016 - June 2016)  
@@ -49,7 +49,6 @@ Clerical Officer
 
 **Sheridan Maine, Financial Recruitment** (Oct 2015 - Jan 2016)  
 Resourcer
-Worked long hours to chase small leads for some difficult people.
 
 ## Other Stuff
 + I play multiple instruments and am always happy to argue the comparisons between music theory, and computer code.
