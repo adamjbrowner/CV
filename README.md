@@ -9,10 +9,9 @@ A Junior Web Developer with a passion for creating complex and engaging web appl
 
 + **Self-driven learner** - You don't get through three years of university, one year of masters and 12 weeks of a coding bootcamp without picking up the ability to teach yourself a thing or too. Whilst part of Makers Academy, I also strived to learn new languages and technologies, even if it meant doing things the "hard" way.
 
-+ **Creativity** - As a keen musician, I have been trained in finding new approaches to problems. Being creative has allowed me approach problems within coding not only from a problem-solving perspective, but also in terms of design more towards the front-end.
++ **Creativity** -
 
-### Dedication
-Having previously worked as a musician, I'm acutely aware that it takes a lot of dedication in order to be good at something. This has translated well into preparing for Web Development. Jumping into the world of programming isn't easy but with dedication it;s possible   
++ **Dedication** - Having previously worked as a musician, I'm acutely aware that it takes a lot of dedication in order to be good at something. This has translated well into preparing for Web Development. Jumping into the world of programming wasn't easy, but with dedication I was able to progress fast, and pick up things quickly.   
 
 ### Communication
 
@@ -24,6 +23,8 @@ Having previously worked as a musician, I'm acutely aware that it takes a lot of
 + Javascript, HTML and CSS were used in the front-end.
 + PostgreSQL was used to create and manage databases.
 
+**Thermostat** -
++ An exercise in front-end Javascript, this is simple app where user's can interact with a thermostat in their browser.
 
 # Education
 **Makers Academy** (June 2016 - Sep 2016)  
