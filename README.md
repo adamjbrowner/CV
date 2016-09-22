@@ -7,15 +7,15 @@ Having completed an intense 12-week bootcamp at Makers Academy, I am now looking
 # Skills
 
 ## Software development
-+ **Languages/Technologies** - Ruby, Ruby on Rails, Sinatra, HTML, CSS, JavaScript, PHP, SQL, PostgreSQL, NodeJS, AngularJS.  
++ **Languages/Technologies** - Ruby, Ruby on Rails, Sinatra, HTML, CSS, JavaScript, PHP, SQL, PostgreSQL, NodeJS, AngularJS, Git.  
 
 + **Self-driven learner** - You don't get through three years of university, one year of masters and 12 weeks of a coding bootcamp without picking up the ability to teach yourself a thing or too. Whilst part of Makers Academy, I also strived to learn new languages and technologies, even if it meant doing things the "hard" way.
 
-+ **Creativity** - Both music and writing have been a part of my life for as long as I can remember, and both have given me invaluable skills that have transferred well into the world of coding.
++ **Creativity** - Both music and writing have been a part of my life for as long as I can remember, and both have given me invaluable skills that have transferred well into the world of coding. Being able to approach problems by thinking non-linearly has been incredibly useful, and has helped both myself and groups I've been in progress quickly through our work.
 
-+ **Dedication** - Having previously worked as a musician, I'm acutely aware that it takes a lot of dedication in order to be good at something. This has translated well into preparing for Web Development. Jumping into the world of programming wasn't easy, but with dedication I was able to progress fast, and pick up things quickly.   
++ **Dedication** - Having previously worked as a musician, I'm acutely aware that it takes a lot of dedication in order to be really good at something. This has translated well into preparing for Web Development. Jumping into the world of programming wasn't easy, but with dedication I was able to progress fast, and pick up things quickly.   
 
-+ **Communication** -
++ **Communication** - After graduating from my Masters I started working for a recruitment agency in Bristol. It was part of my job to ring up potential candidates and interview. Not only was I required to be confident and efficient over the phone, but being a good listener was also very important. These skills have proved useful in web development especially when coding in a pair. It's essential that you not only confidently express your ideas regarding a project, but also listen carefully to others.
 
 
 # Projects
