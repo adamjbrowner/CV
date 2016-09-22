@@ -19,14 +19,18 @@ Having completed an intense 12-week bootcamp at Makers Academy, I am now looking
 
 
 # Projects
-**Cinefile** - https://github.com/adamjbrowner/Cinefile
+**Cinefile** - https://github.com/adamjbrowner/Cinefile - Team
 + A web app that film-lovers can use in order to keep track of where their favourite films are being shown in their local area.
 + Ruby and Rails were used to create models and controllers.
 + Javascript, HTML and CSS were used in the front-end.
 + PostgreSQL were used to create and manage databases.
 
-**Thermostat** -
-+ An exercise in front-end Javascript, this is simple app where user's can interact with a thermostat in their browser.
+**Thermostat** - https://github.com/adamjbrowner/thermostat - Team
++ An exercise in front-end Javascript, this is simple app where users can interact with a thermostat in their browser.
+
+**Pinder** - https://github.com/adamjbrowner/pinder - Team
++ a Rails app designed to find love for you AND your pets.
++ Models and controllers in ruby, postgreSQL for database management
 
 # Education
 **Makers Academy** (June 2016 - Sep 2016)  
@@ -53,6 +57,6 @@ Resourcer
 **Freelance Musician** (Sept 2012 - July 2014)
 
 ## Extras
-+ I play multiple instruments and am always happy to argue the comparisons between music theory, and computer code.
++ I play multiple instruments and am always happy to argue the comparisons between music theory and computer code.
 + I have done lots of work with Mind Your Head, a charity focussed on raising awareness of mental health issues.
 + I'm a keen writer, and have a number of screenplays that, with luck, no will ever be subjected to.
