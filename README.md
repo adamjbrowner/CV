@@ -1,5 +1,7 @@
 # Adam Browner
-A Junior Web Developer with a passion for creating complex and engaging web applications. After completely a master's in English, I discovered that my favourite kind of syntax was actually on buried inside programs, and not printed in books. After spending months learning to code in my spare time, I quite my job and dived full-time into the world of web development. Having completed an intense 12-week bootcamp at Makers Academy, I am now looking for a role as a Junior Web Developer at a company that can accommodate  
+A Junior Web Developer with a passion for creating complex and engaging web applications. After completely a master's in English, I discovered that my favourite kind of syntax was actually on buried inside programs, and not printed in books. After spending months learning to code in my spare time, I quit my job and dived full-time into the world of web development.
+
+Having completed an intense 12-week bootcamp at Makers Academy, I am now looking for a role as a Junior Web Developer at a company that can accommodate my ambition and creativity.
 
 
 # Skills
@@ -9,11 +11,11 @@ A Junior Web Developer with a passion for creating complex and engaging web appl
 
 + **Self-driven learner** - You don't get through three years of university, one year of masters and 12 weeks of a coding bootcamp without picking up the ability to teach yourself a thing or too. Whilst part of Makers Academy, I also strived to learn new languages and technologies, even if it meant doing things the "hard" way.
 
-+ **Creativity** -
++ **Creativity** - Both music and writing have been a part of my life for as long as I can remember, and both have given me invaluable skills that have transferred well into the world of coding.
 
 + **Dedication** - Having previously worked as a musician, I'm acutely aware that it takes a lot of dedication in order to be good at something. This has translated well into preparing for Web Development. Jumping into the world of programming wasn't easy, but with dedication I was able to progress fast, and pick up things quickly.   
 
-+ **Communication**
++ **Communication** -
 
 
 # Projects
