@@ -1,5 +1,5 @@
 # Adam Browner
-A Junior Web Developer with a passion for creating complex and engaging web applications. After completely a master's in English, I discovered that my favourite kind of syntax was actually buried inside programs, and not printed in books. After spending months learning to code in my spare time, I quit my job and dived full-time into the world of web development.
+A Junior Web Developer with a passion for creating complex and engaging web applications. After completing a master's in English, I discovered that my favourite kind of syntax was actually buried inside programs, and not printed in books. After spending months learning to code in my spare time, I quit my job and dived full-time into the world of web development.
 
 Having completed an intense 12-week bootcamp at Makers Academy, I am now looking for a role as a Junior Web Developer at a company that can accommodate my ambition and creativity.
 
