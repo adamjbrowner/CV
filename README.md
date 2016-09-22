@@ -13,7 +13,7 @@ A Junior Web Developer with a passion for creating complex and engaging web appl
 
 + **Dedication** - Having previously worked as a musician, I'm acutely aware that it takes a lot of dedication in order to be good at something. This has translated well into preparing for Web Development. Jumping into the world of programming wasn't easy, but with dedication I was able to progress fast, and pick up things quickly.   
 
-### Communication
++ **Communication**
 
 
 # Projects
@@ -53,5 +53,4 @@ Resourcer
 
 ## Other Stuff
 + I play multiple instruments and am always happy to argue the comparisons between music theory, and computer code.
-+ I like acting, and seem to be typecast as just the worst roles.
 + I have done lots of work with Mind Your Head, a charity focussed on raising awareness of mental health issues.
