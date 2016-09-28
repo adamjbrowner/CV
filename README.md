@@ -48,13 +48,13 @@ Having completed an intense 12-week bootcamp at Makers Academy, I am now looking
 + A-Levels: Maths A, Music A, Film Studies B
 
 # Experience
-**NHS** (Jan 2016 - June 2016)  
+**NHS** (2016)  
 Clerical Officer  
 
-**Sheridan Maine, Financial Recruitment** (Oct 2015 - Jan 2016)  
+**Sheridan Maine, Financial Recruitment** (2015 - 2016)  
 Resourcer
 
-**Freelance Musician** (Sept 2012 - July 2014)
+**Freelance Musician** (2012 - 2014)
 
 ## Extras
 + I play multiple instruments and am always happy to argue the comparisons between music theory and computer code.
