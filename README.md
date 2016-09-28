@@ -7,7 +7,7 @@ Having completed an intense 12-week bootcamp at Makers Academy, I am now looking
 # Skills
 
 ## Software development
-+ **Languages/Technologies** - Ruby, Ruby on Rails, Sinatra, HTML, CSS, JavaScript, PHP, SQL, PostgreSQL, NodeJS, AngularJS, Git.  
++ **Languages/Technologies** - Ruby, Ruby on Rails, Sinatra, HTML, CSS, JavaScript, PHP SQL, PostgreSQL, NodeJS, AngularJS, Git.  
 
 + **Self-driven learner** - You don't get through three years of university, one year of masters and 12 weeks of a coding bootcamp without picking up the ability to teach yourself a thing or too. Whilst part of Makers Academy, I also strived to learn new languages and technologies, even if it meant doing things the "hard" way.
 
