@@ -29,8 +29,11 @@ Having completed an intense 12-week bootcamp at Makers Academy, I am now looking
 + An exercise in front-end Javascript, this is simple app where users can interact with a thermostat in their browser.
 
 **Pinder** - https://github.com/adamjbrowner/pinder - Team
-+ a Rails app designed to find love for you AND your pets.
-+ Models and controllers in ruby, postgreSQL for database management
++ A Rails app designed to find love for you AND your pets.
++ Models and controllers in ruby, postgreSQL for database management.
+
+**Bakery** - https://github.com/adamjbrowner/bakery-html - Solo
++ An ongoing project aimed at showcasing my HTML/CSS knowledge.
 
 # Education
 **Makers Academy** (June 2016 - Sep 2016)  
